@@ -2,7 +2,7 @@ import math
 
 _author_ = 'wombat2'
 
-print ('this is the first time ok  ')
+print ('this is the first time ok')
 
 class Solver:
     def demo(self):
