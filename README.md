@@ -1,2 +1,0 @@
-# MyCircleCI
-CircleCI
