@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.11 (D:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="D:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Python27/Lib/site-packages/mprpc-0.1.10-py2.7-win-amd64.egg!/" />
+            <root type="simple" url="file://D:/Python27/Lib/site-packages/gevent-1.1.0-py2.7-win-amd64.egg" />
+            <root type="simple" url="jar://D:/Python27/Lib/site-packages/gsocketpool-0.1.5-py2.7.egg!/" />
+            <root type="simple" url="file://D:/Python27/Lib/site-packages/greenlet-0.4.9-py2.7-win-amd64.egg" />
+            <root type="simple" url="file://D:/Python27/DLLs" />
+            <root type="simple" url="file://D:/Python27/Lib" />
+            <root type="simple" url="file://D:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Python27" />
+            <root type="simple" url="file://D:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1494736245" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
