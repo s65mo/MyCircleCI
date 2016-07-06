@@ -2,7 +2,8 @@ import math
 
 _author_ = 'wombat2'
 
-print ('this is the first time ok  ')
+print ('this is the first time ok ')
+print (' in Circle CI now')
 
 class Solver:
     def demo(self):
