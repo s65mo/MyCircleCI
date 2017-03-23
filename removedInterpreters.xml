@@ -1,0 +1,10 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="E:\PythonDev\SteveVirtualCondaEnv\python.exe" />
+        <option value="E:\PythonDev\SteveVirtualEnv\fp\Scripts\python.exe" />
+      </set>
+    </option>
+  </component>
+</application>
